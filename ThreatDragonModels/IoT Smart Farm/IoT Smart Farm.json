@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "IoT Smart Farm",
+    "owner": "Calum Finlayson",
+    "description": "Smart farming system that monitors temp, humidity, light, etc. and manages irrigation and light cycling."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
